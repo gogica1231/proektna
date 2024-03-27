@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name":" Bitcoin ",
+        "price": 65166,
+        "image": "btc.png"
+    },
+    {
+        "id": 2,
+        "name":" Ethereum",
+        "price": 3596,
+        "image": "eth.png"
+    },
+    {
+        "id": 3,
+        "name":" Tether",
+        "price": 1,
+        "image": "tet.png"
+    },
+    {
+        "id": 4,
+        "name":" USD Coin",
+        "price": 0.12,
+        "image": "usd.png"
+    },
+    {
+        "id": 5,
+        "name":" XRP",
+        "price": 0.5,
+        "image": "xrp.png"
+    },
+    {
+        "id": 6,
+        "name":" Solana",
+        "price": 95,
+        "image": "sol.png"
+    },
+    {
+        "id": 7,
+        "name":" Cardana",
+        "price": 0.72,
+        "image": "cor.png"
+    },
+    {
+        "id": 8,
+        "name":" Terra",
+        "price": 76,
+        "image": "ter.png"
+    }
+
+
+]
